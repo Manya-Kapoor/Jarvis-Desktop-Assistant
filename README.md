@@ -14,9 +14,8 @@
 
 ## 📌 Features
 
-Jarvis is now more powerful and bilingual! Some of its key features include:
+Jarvis is now more powerful! Some of its key features include:
 
-- **Bilingual Support (FR/EN)**: Native ability to understand and respond in both French and English.
 - **Cross-Platform**: Fully compatible with Linux (Fedora, Ubuntu/Debian) and Windows.
 - **Greet User**: Greets you based on the time of day.
 - **Time & Date**: Tells you the current time and date in the chosen language.
